@@ -1,0 +1,3 @@
+[mcp_servers.weight-studio]
+command = "ws"
+args = ["mcp"]

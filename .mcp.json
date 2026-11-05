@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "weight-studio": { "command": "ws", "args": ["mcp"] }
+  }
+}
